@@ -51,7 +51,7 @@ def printUsage():
     print("SCANVALUE=start:end:step, scans a parameter space, e.g. example TFWHM=0.85:0.90:0.01 ")
     print("ATTR refers to a name in the data file")
     print("")
-    print("Recognized environment variables: DISTRIBUTIONS, FIELDMAPS, OPTIMIZER, OPAL_EXE_PATH, TEMPLATES, QUEUE, RAM, TIME (deprecated SGE_)")
+    print("Recognized environment variables: DISTRIBUTIONS, FIELDMAPS, OPAL_EXE_PATH, TEMPLATES, QUEUE, RAM, TIME (deprecated SGE_, OPTIMIZER)")
     # temporary see issue #8
     print("")
     print("Important: runOPAL is currently not compatible with the command SAMPLE")
