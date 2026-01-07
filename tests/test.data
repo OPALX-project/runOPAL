@@ -1,0 +1,5 @@
+E	100	# electron energy (keV)
+R	2136	# initial radius of the electrons (mm)
+PHI	155	# initial azimuthal angle (110.00 -> CAV5, 155.00 -> CAV4) of the electrons (deg) 
+PHIRF	192	# phase of flattop cavity (111.40 -> CAV5, 192.00 -> CAV4)  (deg)
+CORES	1	# 
